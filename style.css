@@ -1,0 +1,11 @@
+p {
+    background-color: rgb(241, 172, 45);
+    text-align: center;
+    text-shadow: 20px , black;
+   
+  }
+.r {
+    text-align: center;
+    background-color: rgb(248, 152, 28);
+    text-shadow: black 20px;
+}
